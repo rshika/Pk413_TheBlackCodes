@@ -41,8 +41,8 @@ either by increasing the amount of agricultural land or by enhancing productivit
 k means clustering and Google Earth engine code editor
 
 
-## Access to my powerpoint presentation of how our project is like and I've atached a snapshot of how our project is like;
-https://drive.google.com/file/d/1WNJfre3AL5hbshen6lA87r0D4OLv6cIf/view?usp=sharing
+## Access to my powerpoint presentation of how our project is like and I've attached a snapshot of how our project is like;
+https://drive.google.com/file/d/1TtWRNqMsCVHq8hzFN8k3y7V8gzi9f-4b/view?usp=sharing
 
 
 
